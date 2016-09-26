@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IT - Blog E-commerce di PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/it/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/it</link>
+	<description>Benvenuti nel blog di E-commerce di PrestaShop, un blog che vi permette di conoscere i segreti per ottimizzare il suo negozio.</description>
+	<lastBuildDate>Wed, 21 Sep 2016 16:26:35 +0000</lastBuildDate>
+	<language>it-IT</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>L’IVA europea sulle vendite per corrispondenza transfrontaliere</title>
+		<link>https://www.prestashop.com/blog/it/liva-europea-sulle-vendite-per-corrispondenza-transfrontaliere/</link>
+		<comments>https://www.prestashop.com/blog/it/liva-europea-sulle-vendite-per-corrispondenza-transfrontaliere/#comments</comments>
+		<pubDate>Wed, 21 Sep 2016 16:25:48 +0000</pubDate>
+		<dc:creator><![CDATA[Alan Rhode]]></dc:creator>
+				<category><![CDATA[Consigli Legali]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=13441</guid>
+		<description><![CDATA[<p>Le vendite per corrispondenza dei merchant italiani a consumatori residenti in altri stati europei (distance selling) sono soggette a regole IVA molto particolari. Infatti, diversamente dalle vendite di prodotti a imprese europee (business to business), per le quali è prevista, di regola, la non imponibilita’ IVA in Italia (art. 41, c. 1, lett. a) del [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/liva-europea-sulle-vendite-per-corrispondenza-transfrontaliere/">L’IVA europea sulle vendite per corrispondenza transfrontaliere</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Le vendite per corrispondenza dei merchant italiani a consumatori residenti in altri stati europei (distance selling) sono soggette a regole IVA molto particolari.<br />
+</strong></p>
+<p>Infatti, diversamente dalle vendite di prodotti a imprese europee (business to business), per le quali è prevista, di regola, la non imponibilita’ IVA in Italia (art. 41, c. 1, lett. a) del D.L. 331/1993), le vendite a distanza rivolte a consumatori finali europei (business to consumer) possono essere soggette all’IVA italiana o meno; dipende dal volume d’affari annuo che il merchant genera nello stato europeo di destinazione dei prodotti.</p>
+<p><span id="more-13441"></span><br />
+<strong>In estrem(issim)a sintesi, il meccanismo IVA applicabile al distance selling è il seguente:<br />
+</strong><br />
+•	Fino ad una specifica soglia di fatturato annuo generato dal negozio e-commerce italiano nei confronti di consumatori residenti in un medesimo stato europeo, le vendite saranno soggette all’IVA italiana (art. 41, c. 1, lett. b) del D.L. 331/1993). La soglia varia a seconda dello stato UE di destinazione dei prodotti: per le vendite verso la Germania, è pari a € 100.000, in Francia è pari a € 35.000, etc.; </p>
+<p>•	Una volta raggiunta la specifica soglia prevista dallo stato UE di destinazione dei prodotti, il merchant dovrà immediatamente cominciare ad applicare l’IVA “estera” -e non più l’IVA italiana;</p>
+<p>•	A tal fine, sarà opportuno domandare, con debito anticipo, il rilascio di un numero di partita IVA alle autorità fiscali del relativo stato UE; alcuni paesi impongono d’applicare l’IVA locale anche in pendenza di rilascio del numero di partita IVA;</p>
+<p>•	Una volta ottenuta la partita IVA nello stato UE di destinazione dei prodotti, è necessario presentarvi le dichiarazioni periodiche e versare l’IVA (spesso mediante bonifico bancario internazionale, ma alcuni stati UE domandano un conto corrente bancario in loco);</p>
+<p>•	L’IVA estera andrà applicata ex nunc nel prosieguo dell’anno solare in cui si è stata superata la soglia di fatturato (Anno 1) e nel successivo anno solare (Anno 2); se nell’Anno 2 il negozio e-commerce italiano non raggiunge la soglia di fatturato in coincidenza della quale era sorto l’obbligo legale di applicare l’IVA estera, a partire dall’anno solare successivo (cioè, l’Anno 3) il merchant dovrà ritornare ad applicare l’IVA italiana sulle vendite a distanza verso tale stato UE. E’ fatto salvo il diritto per il merchant d’optare per l’applicazione dell’IVA estera. </p>
+<p>Come anticipato, le soglie di fatturato annuo raggiunte le quali sorge l’obbligo di applicare l’IVA dello stato UE di destinazione dei prodotti cambiano a seconda dello stato europeo di destinazione dei prodotti venduti online. Eccole:</p>
+<p>Austria                   € 35.000<br />
+Belgio	                  € 35.000<br />
+Bulgaria	          70.000 BGN<br />
+Cipro	                  € 35.000<br />
+Croatia                   270.000 HRK<br />
+Danimarca	          280.000 DKK<br />
+Estonia	                  € 35.000<br />
+Finlandia                 € 35.000<br />
+Francia	                  € 35.000<br />
+Germania	          € 100.000<br />
+Grecia	                  € 35.000<br />
+Irlanda                   € 35.000<br />
+Italia	                  € 35.000<br />
+Lettonia                  € 35.000<br />
+Lituania	          € 35.000<br />
+Lussemburgo	          € 100.000<br />
+Malta	                  € 35.000<br />
+Paesi Bassi	         € 100.000<br />
+Polonia                  160.000 PLN<br />
+Portogallo	         € 35.000<br />
+Regno Unito              £ 70.000<br />
+Repubblica Ceca          1.140.000 CZK<br />
+Romania	                 118.000 RON<br />
+Slovacchia	         € 35.000<br />
+Slovenia	         € 35.000<br />
+Spagna	                 € 35.000<br />
+Svezia	                 320.000 SEK<br />
+Ungheria                 8.800.000 HUF	 </p>
+<p>Come si può osservare, l’attuale è un meccanismo per l’applicazione dell’IVA assai complesso e dispendioso, sia in termini economici che amministrativi. </p>
+<p>Per tale ragione, la Commissione Europea intende presentare una proposta di direttiva europea al fine d’estendere alle vendite per corrispondenza il sistema già applicato alle vendite di servizi digitali crossborder (cd. commercio elettronico diretto), che prevede la possibilità per i merchant d’essere registrati a fini d’IVA in una sola giurisdizione europea e di dichiarare l’imposta dovuta in più stati UE attraverso un unico interfaccia elettronico, il Mini One Stop Shop (MOSS).  Si tratterebbe di una formula normativa più semplice e meno dispendiosa per gli operatori dell’e-commerce indiretto rispetto a quella vigente ad oggi. </p>
+<p><strong>La proposta di direttiva dovrebbe essere presentata dalla Commissione Europea al Parlamento Europeo entro la fine del 2016.<br />
+</strong></p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/liva-europea-sulle-vendite-per-corrispondenza-transfrontaliere/">L’IVA europea sulle vendite per corrispondenza transfrontaliere</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/liva-europea-sulle-vendite-per-corrispondenza-transfrontaliere/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ispirati alla storia di successo di Tshirt Corner!</title>
+		<link>https://www.prestashop.com/blog/it/ispirati-storia-successo-tshirt-corner/</link>
+		<comments>https://www.prestashop.com/blog/it/ispirati-storia-successo-tshirt-corner/#comments</comments>
+		<pubDate>Tue, 20 Sep 2016 09:58:12 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=13427</guid>
+		<description><![CDATA[<p>Impara a trovare la giusta idea per la tua attività on-line e cresci in grande stile! Lasciati ispirare dall&#8217;esperienza personale di questo e-shop francese di t-shirt alla moda. Tshirt Corner ci spiega come lo sviluppo di sponsor, collaborazioni e comunicazione abbia fatto crescere la sua attività. Infatti, questo e-shop è passato dal lancio di una [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/ispirati-storia-successo-tshirt-corner/">Ispirati alla storia di successo di Tshirt Corner!</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Impara a trovare la giusta idea per la tua attività on-line e cresci in grande stile! </p>
+<p>Lasciati ispirare dall&#8217;esperienza personale di questo e-shop francese di t-shirt alla moda. <span id="more-13427"></span>Tshirt Corner ci spiega come lo sviluppo di sponsor, collaborazioni e comunicazione abbia fatto crescere la sua attività. Infatti, questo e-shop è passato dal lancio di una singola t-shirt alla vendita di più di 4.000 prodotti disegnati da circa 40 brand diversi. </p>
+<p>Tshirt Corner propone diversi stili di t-shirt in cotone organico, con stampe di diversi brand e artisti.</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/voFUie7hSwY?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=tshirtcorner" target="_blank"><i class="fa fa-youtube-play"></i> Vedere altri video</a></div>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/ispirati-storia-successo-tshirt-corner/">Ispirati alla storia di successo di Tshirt Corner!</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/ispirati-storia-successo-tshirt-corner/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>8 domande da porsi sulla propria funzione di ricerca e-commerce (Prima parte: domande da 1 a 4)</title>
+		<link>https://www.prestashop.com/blog/it/8-domande-porsi-propria-funzione-ricerca-commerce-prima-parte-domande-1-4/</link>
+		<comments>https://www.prestashop.com/blog/it/8-domande-porsi-propria-funzione-ricerca-commerce-prima-parte-domande-1-4/#comments</comments>
+		<pubDate>Fri, 16 Sep 2016 08:30:09 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=13412</guid>
+		<description><![CDATA[<p>I clienti che utilizzano la funzione di ricerca su un sito hanno maggiori probabilità di conversione rispetto a quelli che cercano solamente ciò che desiderano. Per garantire l&#8217;esperienza utente e i tassi di conversione migliori possibili, i commercianti dovrebbero analizzare le prestazioni e la funzionalità della ricerca sul loro sito. In questo articolo, suddiviso in [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/8-domande-porsi-propria-funzione-ricerca-commerce-prima-parte-domande-1-4/">8 domande da porsi sulla propria funzione di ricerca e-commerce (Prima parte: domande da 1 a 4)</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>I clienti che utilizzano la funzione di ricerca su un sito hanno maggiori probabilità di conversione rispetto a quelli che cercano solamente ciò che desiderano. Per garantire l&#8217;esperienza utente e i tassi di conversione migliori possibili, i commercianti dovrebbero analizzare le prestazioni e la funzionalità della ricerca sul loro sito. In questo articolo, suddiviso in due parti, esamineremo le prime 4 domande che i commercianti dovrebbero porsi quando valutano le prestazioni della propria ricerca. (Non perderti la seconda parte, disponibile la settimana prossima!)<br />
+<span id="more-13412"></span></p>
+<h2>1) La mia ricerca è in grado di gestire sinonimi ed errori di ortografia comuni?</h2>
+<p>Controlla che la ricerca sul tuo sito sia in grado di gestire varianti linguistiche, slang, errori di battitura e di ortografia. Se il cliente sa che un determinato prodotto è in vendita nel tuo negozio on-line e ne digita il nome nella ricerca sul sito senza ottenere risultati (o ricevendo un messaggio di errore in cui si &#8220;incolpa&#8221; il cliente), è probabile che si senta estremamente frustrato e irritato! Un&#8217;analisi regolare dei dati relativi ai termini di ricerca (che è possibile eseguire con <a href="https://www.wordtracker.com/academy/learn-seo/analytics/monitor-with-google-analytics" target="_blank">Google Analytics</a> o attraverso una dashboard di reporting, se si utilizza una soluzione esterna) dovrebbe mettere in luce i termini di ricerca digitati più spesso in modo errato, oltre ai casi in cui un prodotto è elencato nel catalogo del negozio utilizzando un termine, mentre i clienti lo cercano regolarmente utilizzando un termine completamente diverso.</p>
+<p><img class="alignnone size-full wp-image-13415" alt="8QuestionsSearchFunction01" src="https://www.prestashop.com/blog/it/files/2016/09/8QuestionsSearchFunction01.png" width="941" height="511" /></p>
+<p>Questo esempio di Oneills.com mostra come la loro soluzione di ricerca (<a href="http://www.klevu.com/" target="_blank">Klevu</a>) li aiuti a gestire automaticamente gli errori.</p>
+<p><strong><a class="twitter-share-button" title="Click to Tweet!" href="https://twitter.com/intent/tweet?text=I%20clienti%20che%20utilizzano%20la%20funzione%20di%20ricerca%20su%20un%20sito%20hanno%20maggiori%20probabilit%C3%A0%20di%20conversione%20rispetto%20a%20quelli%20che%20cercano%20solamente%20ci%C3%B2%20che%20desiderano.&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fit%2F8-domande-porsi-propria-funzione-ricerca-commerce-prima-parte-domande-1-4&amp;via=PrestaShop" target="_blank">I clienti che utilizzano la funzione di ricerca su un sito hanno maggiori probabilità di conversione rispetto a quelli che cercano solamente ciò che desiderano.<i class="fa fa-twitter"></i></a></strong></p>
+<h3>Parole diverse per lo stesso articolo</h3>
+<p>Un classico esempio potrebbe essere un commerciante di moda che elenca tutti i propri maglioni con il termine &#8220;maglione&#8221;, ignorando il fatto che i clienti cercano spesso utilizzando i termini &#8220;golf&#8221; o &#8220;pullover&#8221;. Un sistema di ricerca intelligente che utilizza l&#8217;elaborazione della lingua naturale può comprendere che maglione, golf e pullover sono tutti sinonimi, mentre una soluzione standard fondata sulle parole chiave ha meno probabilità di produrre risultati soddisfacenti.</p>
+<h3>Errori di ortografia</h3>
+<p>Un negozio che vende calendari dovrebbe assicurarsi che termini simili (come &#8220;calendaio&#8221; o &#8220;calendrario&#8221;) siano riconosciuti come errori ortografici della parola &#8220;calendario&#8221; e restituire i risultati auspicati, senza implicare che il cliente abbia commesso un errore.</p>
+<p>Un altro modo per ridurre l&#8217;incidenza degli errori ortografici consiste nel fornire suggerimenti in merito a prodotti e categorie. Così facendo, il cliente non deve digitare l&#8217;intero termine di ricerca, riducendo contemporaneamente errori e tempi della ricerca. In questo caso, è fondamentale che i suggerimenti automatici migliorino effettivamente l&#8217;esperienza utente: pertanto, devono essere monitorati regolarmente per verificarne le prestazioni e la precisione. Uno strumento di suggerimento automatico che rallenta il percorso del cliente è un modo rapido per perdere una potenziale vendita.</p>
+<h3>L&#8217;opzione di reindirizzamento</h3>
+<p>Un&#8217;altra opzione per risolvere problemi di questo tipo consiste nel reindirizzare alcune richieste a una pagina in cui sono elencati i prodotti piuttosto che ai risultati della ricerca. Ad esempio, se qualcuno digita &#8220;calendario&#8221;, è possibile applicare semplicemente un reindirizzamento affinché l&#8217;URL di destinazione porti alla landing page della categoria principale. Molti commercianti di spicco si avvalgono di questi reindirizzamenti per le richieste più generiche, poiché le pagine delle categorie di livello superiore presentano una gamma di prodotti più ampia rispetto alla pagina dei risultati di ricerca.</p>
+<p><strong><a class="twitter-share-button" title="Click to Tweet!" href="https://twitter.com/intent/tweet?text=Non%20vi%20%C3%A8%20niente%20di%20pi%C3%B9%20irritante%20di%20un%20sito%20che%20non%20%C3%A8%20in%20grado%20di%20trovare%20un%20prodotto%20in%20vendita%20sul%20sito%20stesso%20o%20che%20incolpa%20il%20cliente%20di%20aver%20%22commesso%20un%20errore%22&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fit%2F8-domande-porsi-propria-funzione-ricerca-commerce-prima-parte-domande-1-4&amp;via=PrestaShop" target="_blank">Non vi è niente di più irritante di un sito che non è in grado di trovare un prodotto in vendita sul sito stesso o che incolpa il cliente di aver &#8220;commesso un errore&#8221;<i class="fa fa-twitter"></i></a></strong></p>
+<h2>2) La mia ricerca è in grado di gestire ogni tipo di richiesta?</h2>
+<p>L&#8217;e-commerce si fa sempre più sofisticato, e così anche le aspettative del cliente. Sempre più clienti utilizzano strumenti di ricerca sul sito per trovare risposte alle proprie domande e per cercare prodotti specifici. Analizzando i dati di ricerca sui siti di numerosi negozi, emergono frasi come &#8220;orari di apertura&#8221;, &#8220;resi&#8221;, &#8220;costi di spedizione&#8221; e &#8220;trova negozio&#8221;. Da questi esempi traspare chiaramente ciò che il cliente si aspetta di vedere ma, troppo spesso, i negozi presentano una pagina con zero risultati o, forse ancora peggio, una pagina contenente prodotti a caso per via di una qualche corrispondenza con i termini di ricerca, attraverso un approccio fondato sulle parole chiave.</p>
+<h3>Richieste complesse</h3>
+<p>Un ottimo esempio di come gestire correttamente questo tipo di richiesta è rappresentato da <a href="https://www.glitzysecrets.com/" target="_blank">Glitzy Secrets</a>, come puoi vedere di seguito. Digita &#8220;consegna&#8221; e queste sono le varie pagine suggerite per trovare informazioni sulla consegna. Digita &#8220;resi&#8221; e appare una serie di risultati simili, con tutte le informazioni richieste.</p>
+<p><img class="alignnone size-full wp-image-13416" alt="8QuestionsSearchFunction02" src="https://www.prestashop.com/blog/it/files/2016/09/8QuestionsSearchFunction02.png" width="941" height="424" /></p>
+<p>Una ricerca simile digitando &#8220;consegna&#8221; sul sito <a href="http://animal.co.uk/" target="_blank">animal.co.uk</a>, tuttavia, non offre una risposta altrettanto utile. Appare infatti il messaggio &#8220;nessun risultato trovato&#8221;, nonostante il sito abbia una pagina dedicata alle informazioni sulla consegna che potrebbe essere visualizzata.</p>
+<p>Sebbene possano sembrare frivoli, questi problemi legati all&#8217;esperienza utente hanno un effetto cumulativo: occorre quindi fare tutto il possibile per risolvere ogni punto debole identificato.</p>
+<h2>3) Quali e quante richieste generano zero risultati?</h2>
+<p>Probabilmente, l&#8217;esperienza peggiore legata alla ricerca su un sito è la visualizzazione della pagina &#8220;zero risultati&#8221;. Le pagine dei risultati che presentano prodotti irrilevanti comportano una scarsa esperienza utente, ma la pagina &#8220;zero risultati&#8221; è ancora peggio, in quanto, solitamente, è interpretata dal cliente come &#8220;Non abbiamo prodotti rilevanti&#8221; ed è strettamente collegata a un&#8217;elevata frequenza di rimbalzo.</p>
+<h3>Zero risultati!</h3>
+<p>Analizzando i dati delle ricerche, risulta chiaro che alcune richieste con zero risultati potrebbero essere risolte facilmente. Le pagine con zero risultati sono più comuni quando la piattaforma di ricerca utilizza un tipico approccio fondato sulle parole chiave invece di utilizzare l&#8217;elaborazione del linguaggio naturale. Ad esempio, se un utente digita &#8220;vestiti con spalline&#8221; in una casella di ricerca, il vecchio approccio potrebbe facilmente restituire zero risultati in quanto cerca corrispondenze con i prodotti solamente in base al nome.</p>
+<h3>Ricerca per attributi</h3>
+<p>Un altro esempio in cui è possibile ottenere zero risultati è il caso in cui, su un sito di moda, un cliente digita un colore, sperando di visualizzare tutti i prodotti di quel colore. Anche in questo caso, se il colore è considerato un attributo del prodotto invece di essere riportato esplicitamente nella descrizione o nel nome del prodotto stesso, vi è il rischio di non ottenere risultati, nonostante il negozio possa avere numerosi prodotti disponibili nel colore desiderato. Un sistema di ricerca in grado di utilizzare gli attributi dei prodotti, come colore, taglia, marca, ecc. offrirà sempre una migliore esperienza e risultati più rilevanti.</p>
+<h2>4) È forse meglio indirizzare le richieste generiche alle pagine delle categorie?</h2>
+<p>La ricerca sui siti sta diventando sempre più sofisticata in termini di logica e tecnologia utilizzate per recuperare i risultati, e così anche il formato dei risultati. L&#8217;e-commerce sta assistendo a un passaggio da semplici risultati dei prodotti a una serie di risultati più bilanciata, che comprende ricerche particolarmente popolari, post dei blog/guide, pagine CMS e link a categorie collegate. Ciò aiuta specialmente i clienti che si trovano agli inizi del proprio percorso di acquisto e che utilizzano termini di ricerca molto generici, ad esempio &#8220;fotocamera&#8221;. Per termini di ricerca così ampi, numerosi commercianti scelgono di reindirizzare la pagina dei risultati direttamente alla pagina della categoria corrispondente. Dal punto di vista dell&#8217;esperienza utente, questa soluzione è preferibile rispetto alla visualizzazione di un enorme elenco di risultati di ricerca, non filtrati e presentati in ordine apparentemente casuale. Analizzando i dati relativi ai termini di ricerca, i commercianti possono fare sì che la propria funzione di ricerca sia impostata in modo da indirizzare richieste particolarmente generiche direttamente alla categoria corrispondente.</p>
+<p><strong><a class="twitter-share-button" title="Click to Tweet!" href="https://twitter.com/intent/tweet?text=La%20ricerca%20sui%20siti%20%C3%A8%20oggi%20pi%C3%B9%20sofisticata%20in%20termini%20di%20logica%20e%20tecnologia%20utilizzate%20per%20recuperare%20i%20risultati%2C%20e%20lo%20%C3%A8%20anche%20il%20formato%20dei%20risultati%20stessi.&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fit%2F8-domande-porsi-propria-funzione-ricerca-commerce-prima-parte-domande-1-4&amp;via=PrestaShop" target="_blank">La ricerca sui siti è oggi più sofisticata in termini di logica e tecnologia utilizzate per recuperare i risultati, e lo è anche il formato dei risultati stessi.<i class="fa fa-twitter"></i></a></strong></p>
+<h3>L&#8217;importanza del nome del prodotto</h3>
+<p>Inoltre, un commerciante che non adotta questa tecnica rischia di perdere vendite poiché, ad esempio, la ricerca &#8220;scarpe da uomo&#8221; potrebbe facilmente restituire risultati irrilevanti se le scarpe da uomo in vendita non contengono la parola &#8220;uomo&#8221; nel nome del prodotto o nella descrizione. Se non fornisci filtri affinché gli utenti possano affinare ulteriormente i risultati, il percorso di acquisto potrebbe essere più complesso che non utilizzando la pagina della categoria o la pagina del prodotto.</p>
+<p><strong>Ulteriori approfondimenti (in inglese):</strong></p>
+<ul>
+<li>La guida per antonomasia alla ricerca nell&#8217;e-commerce: <a href="http://www.klevu.com/the-definitive-guide-to-ecommerce-site-search.html" target="_blank">http://www.klevu.com/the-definitive-guide-to-ecommerce-site-search.html</a> a cura di <a href="http://www.klevu.com" target="_blank">Klevu</a></li>
+<li>Buone prassi per la ricerca nell&#8217;e-commerce: <a href="https://econsultancy.com/blog/66658-24-best-practice-tips-for-ecommerce-site-search/" target="_blank">https://econsultancy.com/blog/66658-24-best-practice-tips-for-ecommerce-site-search/</a> a cura di <a href="https://econsultancy.com/" target="_blank">Econsultancy</a></li>
+<li>Lo stato attuale della ricerca sui siti di e-commerce: <a href="https://www.smashingmagazine.com/2014/08/the-current-state-of-e-commerce-search/" target="_blank">https://www.smashingmagazine.com/2014/08/the-current-state-of-e-commerce-search/</a> a cura di <a href="https://www.smashingmagazine.com" target="_blank">Smashing Magazine</a></li>
+<li>50 siti con un&#8217;ottima ricerca: <a href="http://baymard.com/ecommerce-search/benchmark/site-reviews" target="_blank">http://baymard.com/ecommerce-search/benchmark/site-reviews</a> a cura di <a href="http://baymard.com" target="_blank">Baymard</a></li>
+<li>Alcuni consigli generali estremamente utili per una ricerca più avanzata: <a href="https://www.pinpointdesigns.co.uk/optimising-magentos-search-function/" target="_blank">https://www.pinpointdesigns.co.uk/optimising-magentos-search-function/</a> a cura di <a href="https://www.pinpointdesigns.co.uk" target="_blank">Pinpoint</a></li>
+</ul>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p><img class=" wp-image-13454 alignleft" alt="paul_rogers" src="https://www.prestashop.com/blog/it/files/2016/09/paul_rogers.png" width="252" height="252" /></p>
+<p><a href="https://paulnrogers.com/" target="_blank">Paul Rogers</a> è un consulente dell&#8217;e-commerce e del marketing digitale con sede a Londra, Regno Unito. Paul ha rivestito svariati ruoli incentrati sull&#8217;e-commerce per agenzie, commercianti e in qualità di consulente. Ora con un ventaglio di clienti più ristretto, concentrato principalmente sulla strategia e la tecnologia dell&#8217;e-commerce, Paul ha recentemente dato vita a <a href="https://replatforming.com/" target="_blank">Replatforming.com</a>.</p>
+<p><strong>Link ai social : </strong><br />
+<a href="http://www.twitter.com/paulnrogers" target="_blank">Twitter.com/paulnrogers</a><br />
+<a href="https://www.linkedin.com/in/paulnrogers" target="_blank">Linkedin.com/in/paulnrogers</a></p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/8-domande-porsi-propria-funzione-ricerca-commerce-prima-parte-domande-1-4/">8 domande da porsi sulla propria funzione di ricerca e-commerce (Prima parte: domande da 1 a 4)</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/8-domande-porsi-propria-funzione-ricerca-commerce-prima-parte-domande-1-4/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Perché le persone contribuiscono a tradurre i software? #OpenSourceHero</title>
+		<link>https://www.prestashop.com/blog/it/perche-contribuiscono-tradurre-i-software-opensourcehero/</link>
+		<comments>https://www.prestashop.com/blog/it/perche-contribuiscono-tradurre-i-software-opensourcehero/#comments</comments>
+		<pubDate>Wed, 14 Sep 2016 08:30:10 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Tendenze E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=13408</guid>
+		<description><![CDATA[<p>Incontro con il nostro #OpenSourceHero della traduzione Jesús Ruiz Garcí­a. L&#8217;open source consiste nel garantire il miglioramento continuo di software gratuiti tramite la collaborazione di programmatori di tutto il mondo. Noi di PrestaShop siamo orgogliosi di offrire gratuitamente il nostro software di e-commerce, che viene sottoposto a costanti miglioramenti, revisioni e upgrade da parte di [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/perche-contribuiscono-tradurre-i-software-opensourcehero/">Perché le persone contribuiscono a tradurre i software? #OpenSourceHero</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2>Incontro con il nostro #OpenSourceHero della traduzione Jesús Ruiz Garcí­a.</h2>
+<p>L&#8217;open source consiste nel garantire il miglioramento continuo di software gratuiti tramite la collaborazione di programmatori di tutto il mondo. Noi di PrestaShop siamo orgogliosi di offrire gratuitamente il nostro software di e-commerce, che viene sottoposto a costanti miglioramenti, revisioni e upgrade da parte di una community di oltre un milione di collaboratori situati in vari paesi, dalla cultura e dal background più disparati… e in moltissime lingue. È forse troppo ambizioso?<span id="more-13408"></span></p>
+<p>Non quando si può vantare il contributo di una community #OpenSource di un milione di persone (#1million).</p>
+<p>In prima linea troviamo un gruppo di collaboratori che noi definiamo eroi, ovvero coloro che si spingono ben oltre per adattare la nostra offerta alle loro esigenze e a quelle della loro comunità locale.</p>
+<p>Uno di questi eroi è un appassionato di videogiochi della vecchia scuola, il trentacinquenne <a href="https://twitter.com/jesusgenialogic" target="_blank">Jesús Ruiz Garcí­a</a>, che si è specializzato nel tradurre PrestaShop nella sua lingua madre, lo spagnolo, e ci spiega cosa significa essere un traduttore #OpenSourceHero.</p>
+<p>&#8220;<em>Partecipare all&#8217;open source di PrestaShop mi aiuta ad osservare il complesso sviluppo software del &#8216;mondo reale&#8217; e mi consente di vedere dall&#8217;interno come funziona questo gruppo di grandi professionisti.</em></p>
+<p><em>Perché faccio tutto questo? Per dirlo con quattro semplici parole: per imparare dai migliori.</em></p>
+<p><em>Si tratta di un esercizio che ti costringe a conoscere a fondo ogni singolo dettaglio del software, in modo tale da poterlo trasmettere nella tua lingua madre. Questo vale sia per la traduzione degli elementi del software stesso sia per la documentazione, come le guide all&#8217;upgrade, al design e alla programmazione.</em></p>
+<p><strong><a class="twitter-share-button" title="Click to Tweet!" href="https://twitter.com/intent/tweet?text=Che%20cos%27%C3%A8%20un%20esercizio%20che%20ti%20costringe%20a%20conoscere%20a%20fondo%20ogni%20singolo%20dettaglio%20del%20software%3F&amp;url=https://www.prestashop.com/blog/it/perche-contribuiscono-tradurre-i-software-opensourcehero&amp;via=PrestaShop&amp;hashtags=Translation,OpenSourceHero,PrestaShop" target="_blank">Che cos&#8217;è un esercizio che ti costringe a conoscere a fondo ogni singolo dettaglio del software?<i class="fa fa-twitter"></i></a></strong></p>
+<p><em>Anche il mio lessico di software è migliorato molto.</em></p>
+<p><em>E francamente è una cosa che mi piace fare. Sento che il mio lavoro viene apprezzato, cosa che non sempre accade in questo genere di progetti partecipativi, per cui acquista un&#8217;importanza ancora maggiore.</em></p>
+<p><em>L&#8217;altro aspetto della questione è il fatto che si tratta di un atto altruistico, in quanto consente alle persone che non capiscono una determinata lingua di riuscire ad usare il software. E questo dà soddisfazione.</em></p>
+<p><em>Ho scoperto PrestaShop alla fine del 2012 e da allora ne sono un appassionato. Stavo già contribuendo al software open source e in pochi anni ho iniziato a tradurre in concomitanza con la comparsa di un inconveniente in uno dei sistemi. Inizialmente le istruzioni per migliorare la situazione venivano inoltrate alla community in inglese. Io conoscevo persone di lingua spagnola che sarebbero state felici di contribuire e quindi le ho tradotte. Dopodiché ho continuato traducendo la Guida Utente per PrestaShop.</em></p>
+<p><em>Sostanzialmente, mi sono trovato al posto giusto nel momento giusto, ma sicuramente non mi sarei soffermato oltre se non fosse stato per la pazienza del team PrestaShop. Finora, per il progetto PrestaShop credo di avere tradotto circa 250.000 parole di software e documentazione.</em></p>
+<p><em>Il mio consiglio principale è quello di munirsi sempre di un glossario dei termini più utilizzati da PrestaShop e di una guida stilistica, di cui dispongono tutti i traduttori impegnati in qualunque progetto su cui si stia lavorando. Si tratta di un elemento di cruciale importanza se si vuole fornire una traduzione coerente e precisa. Questo consiglio è assolutamente fondamentale per progetti come documentazione PHP, MSDN di Microsoft, ecc., ma in generale vale per qualsiasi traduzione.</em></p>
+<p><em>Collaborare con PrestaShop è un&#8217;esperienza incredibile. Inoltre, il team prende sempre in considerazione i suggerimenti e le idee che proponiamo e questo è fondamentale per fare sì che le persone si affezionino ad un progetto.</em>&#8220;</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/perche-contribuiscono-tradurre-i-software-opensourcehero/">Perché le persone contribuiscono a tradurre i software? #OpenSourceHero</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/perche-contribuiscono-tradurre-i-software-opensourcehero/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Come incrementare le vendite e-commerce con Google Shopping</title>
+		<link>https://www.prestashop.com/blog/it/come-incrementare-vendite-commerce-google-shopping/</link>
+		<comments>https://www.prestashop.com/blog/it/come-incrementare-vendite-commerce-google-shopping/#comments</comments>
+		<pubDate>Mon, 12 Sep 2016 09:30:09 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=13399</guid>
+		<description><![CDATA[<p>Nuove informazioni e suggerimenti! Google Shopping offre un modo più visivo per mettere i prodotti in prima linea nei risultati di Google Search e in altre proprietà Google. Il potenziale per incrementare le vendite on-line con Google Shopping è enorme ma ti sarà utile conoscere alcuni trucchetti interni per assicurarti di non avere problemi con [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/come-incrementare-vendite-commerce-google-shopping/">Come incrementare le vendite e-commerce con Google Shopping</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Nuove informazioni e suggerimenti! Google Shopping offre un modo più visivo per mettere i prodotti in prima linea nei risultati di Google Search e in altre proprietà Google. Il potenziale per incrementare le vendite on-line con Google Shopping è enorme ma ti sarà utile conoscere alcuni trucchetti interni per assicurarti di non avere problemi con la tua offerta on-line.</p>
+<p><span id="more-13399"></span><br />
+Quindi, se intendi sfruttare le più recenti tecnologie di Google per aumentare le conversioni e incrementare le tue entrate, ti consigliamo di dare un&#8217;occhiata a questo breve video.</p>
+<div class="g-ytsubscribe col-centered text-center"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/o6Cd9RmqdBc?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=google-shopping" target="_blank"><i class="fa fa-youtube-play"></i> Vedere altri video</a></div>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/come-incrementare-vendite-commerce-google-shopping/">Come incrementare le vendite e-commerce con Google Shopping</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/come-incrementare-vendite-commerce-google-shopping/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>I migliori e-shop di moda: la nostra top 6!</title>
+		<link>https://www.prestashop.com/blog/it/i-migliori-shop-moda-nostra-top-6/</link>
+		<comments>https://www.prestashop.com/blog/it/i-migliori-shop-moda-nostra-top-6/#comments</comments>
+		<pubDate>Wed, 07 Sep 2016 08:30:17 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Tendenze E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=13374</guid>
+		<description><![CDATA[<p>Gli e-shop di moda come estensione del design di un brand: la nostra top 6 In tutto il mondo fervono i preparativi per la fashion week, durante la quale saranno rivelate le collezioni Primavera-Estate 2017. Per l&#8217;occasione, abbiamo selezionato sei e-shop di moda che infondono il loro design distintivo non solo nei vestiti che creano, [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/i-migliori-shop-moda-nostra-top-6/">I migliori e-shop di moda: la nostra top 6!</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<h2>Gli e-shop di moda come estensione del design di un brand: la nostra top 6</h2>
+<p>In tutto il mondo fervono i preparativi per la fashion week, durante la quale saranno rivelate le collezioni Primavera-Estate 2017. Per l&#8217;occasione, abbiamo selezionato sei e-shop di moda che infondono il loro design distintivo non solo nei vestiti che creano, ma anche nella struttura del loro sito di e-commerce.</p>
+<p><span id="more-13374"></span>In materia di stile, ci sono saltati agli occhi sei e-commercianti di moda. Nel loro e-shop hanno saputo creare un&#8217;atmosfera che riflette perfettamente la storia e il posizionamento del loro brand, attraverso una sapiente scelta delle interfacce e un uso intelligente del colore.</p>
+<p>È il momento di eseguire un upgrade del tuo negozio di moda on-line! Lasciati ispirare dalla top 6 di PrestaShop e non dimenticare di dare un&#8217;occhiata alla nostra lista delle 9 funzionalità indispensabili per un negozio on-line di moda e accessori.</p>
+<p><strong><a target="_blank" title="Click to Tweet!" class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Guarda%20come%20questi%20e-shop%20di%20moda%20sfruttano%20il%20design%20per%20mettere%20in%20risalto%20la%20storia%20del%20loro%20brand&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fit%2Fi-migliori-shop-moda-nostra-top-6&amp;via=PrestaShop" data-size="default">Guarda come questi e-shop di moda sfruttano il design per mettere in risalto la storia del loro brand&nbsp;&nbsp;&nbsp;<i class="fa fa-twitter"></i></a></strong></p>
+<h2><strong></strong>1) Ba&amp;sh</h2>
+<p>Moda contemporanea &#8211; Francia<br />
+<a href="https://ba-sh.com/fr/it/" target="_blank">Dai un&#8217;occhiata al sito di Ba&amp;sh</a> (https://ba-sh.com/fr/it/)</p>
+<p><em>Creato dalle francesi Barbara Boccara e Sharon Krief, Ba&amp;sh propone uno stile di moda contemporaneo dalle linee classiche. Se il brand ha negozi fisici in oltre sette paesi, il suo e-shop resta un complemento indispensabile per raggiungere la clientela internazionale.</em></p>
+<p><strong>Stile:</strong> parigino chic, semplice, arioso e al contempo caldo e moderno.</p>
+<p><strong>Perché ci piace:</strong> lo sfondo bianco e le eleganti lettere slanciate creano una sensazione di spazio perfetta per mettere in valore i vestiti. Ba&amp;sh si concentra sulle silhouette. L&#8217;intestazione contiene uno slider nel quale si susseguono ritratti artistici sovradimensionati per trasmettere una sensazione di calore, e affermare al tempo stesso l&#8217;originalità del brand. I capi invece sono presentati in maniera più minimalista, per migliorare l’esperienza utente e riprendere al contempo lo stile chic e discreto del brand.</p>
+<p><strong>Interfaccia:</strong> le pagine prodotto propongono foto dei capi da sei angolazioni diverse. Le brevi descrizioni dei prodotti rendono facile la navigazione. Colori: grigio chiaro su sfondo bianco.</p>
+<p><img class="alignnone size-full wp-image-13376" alt="OurTop_Bash" src="https://www.prestashop.com/blog/it/files/2016/09/OurTop_Bash.jpg" width="2500" height="1312" /></p>
+<h2>2) Bimba y Lola</h2>
+<p><a href="http://www.bimbaylola.com/cms/?lang=en" target="_blank">Dai un&#8217;occhiata al sito di Bimba y Lola</a> (http://www.bimbaylola.com/cms/?lang=en)</p>
+<p><strong>Moda concettuale spagnola</strong></p>
+<p><em>Questo brand di prêt-à-porter femminile spagnolo, molto particolare, si concentra sulle stampe e i tessuti, pur mantenendo silhouette minimaliste. Propone non solo prêt-à-porter ma anche scarpe e una vasta gamma di gioielli e accessori, come sciarpe, cappelli e cover per iPhone: tutto rigorosamente in tema con i motivi originali e decorativi del brand.</em></p>
+<p><strong>Stile:</strong> stravagante, bohémien, eccentrico.</p>
+<p><strong>Perché ci piace:</strong> il sito sfiora pericolosamente il kitsch, come del resto i capi di questo brand. La barra laterale fluorescente si abbina alla perfezione alle foto artistiche. La homepage è talmente minimalista che l&#8217;utente potrebbe credere di trovarsi su un sito di fotografia concettuale.</p>
+<p><strong>Interfaccia:</strong> si può navigare tra le categorie direttamente dalla barra laterale, il che significa che l&#8217;utente può effettuare il check-out in tre clic. Facendo scorrere le pagine prodotto si visualizzano immagini di grandi dimensioni del capo visto da tutte le angolazioni, affinché l&#8217;utente possa farsene un&#8217;idea reale. La barra di ricerca, il carrello, i link ai social network e i pulsanti di contatto prendono pochissimo spazio e si trovano sulla barra laterale destra, più stretta. Restano tuttavia facilmente individuabili. Un esempio da seguire.</p>
+<p><img class="alignnone size-full wp-image-13377" alt="OurTop_BimbaYLola" src="https://www.prestashop.com/blog/it/files/2016/09/OurTop_BimbaYLola.jpg" width="2500" height="1312" /></p>
+<p><strong><a target="_blank" title="Click to Tweet!" class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Un%20delizioso%20e-shop%20di%20moda%20al%20confine%20con%20il%20kitsch.%20Scopri%20la%20nostra%20top%206&amp;url=https%3A%2F%2Fwww.prestashop.com%2Fblog%2Fit%2Fi-migliori-shop-moda-nostra-top-6&amp;via=PrestaShop" data-size="default">Un delizioso e-shop di moda al confine con il kitsch. Scopri la nostra top 6&nbsp;&nbsp;&nbsp;<i class="fa fa-twitter"></i></a></strong></p>
+<h2>3) Faguo</h2>
+<p>Calzature da uomo francesi<br />
+<a href="http://www.faguo-store.com/en/" target="_blank">Dai un&#8217;occhiata al sito di Faguo</a> (http://www.faguo-store.com/en/)</p>
+<p><em>Questo e-shop francese di calzature maschili offre anche una piccola selezione di accessori, abiti e scarpe da donna. Il concept? Per ogni paio di scarpe acquistato viene piantato un albero in Francia.</em></p>
+<p><strong>Stile:</strong> autentico, semplice, sobrio e pratico.</p>
+<p><strong>Perché ci piace:</strong> si tratta di un sito ibrido, a metà tra un blog e un e-shop. Le pagine prodotto sono facili da visualizzare e, una volta aperte, mostrano immagini ad alta definizione degli articoli. La parte del sito dedicata all&#8217;e-shop sembra quasi secondaria rispetto a quella dedicata alla storia del brand: due amici parigini lanciano con successo un brand sostenibile e rispettoso dell&#8217;ambiente.</p>
+<p><strong>Interfaccia:</strong> si può navigare tra le categorie direttamente dalla barra laterale, il che significa che l&#8217;utente può effettuare il check-out in tre click. Facendo scorrere le pagine prodotto si visualizzano immagini di grandi dimensioni del capo visto da tutte le angolazioni, l&#8217;ideale per farsi un&#8217;idea reale dell&#8217;indumento. Nella sezione &#8220;Universe&#8221; ci è piaciuta la cartina con tutti i luoghi in cui Faguo ha piantato un albero, mentre sulla homepage abbiamo apprezzato il widget che mostra il numero totale di alberi piantati dal brand.</p>
+<p><img class="alignnone size-full wp-image-13378" alt="OurTop_Faguo" src="https://www.prestashop.com/blog/it/files/2016/09/OurTop_Faguo.jpg" width="2500" height="1312" /></p>
+<p><strong><a target="_blank" title="Click to Tweet!" class="twitter-share-button" href="https://twitter.com/intent/tweet?text=La%20parte%20del%20sito%20dedicata%20all%27e-shop%20sembra%20quasi%20secondaria%20rispetto%20a%20quella%20dedicata%20alla%20storia%20del%20brand%3A%20due%20amici%20parigini%20fondano%20un%20brand%20sostenibile%20e%20rispettoso%20dell%27ambiente&amp;via=PrestaShop" data-size="default">La parte del sito dedicata all&#8217;e-shop sembra quasi secondaria rispetto a quella dedicata alla storia del brand: due amici parigini fondano un brand sostenibile e rispettoso dell&#8217;ambiente&nbsp;&nbsp;&nbsp;<i class="fa fa-twitter"></i></a></strong></p>
+<h2>4) Manoush</h2>
+<p><strong>Prêt-à-porter da donna di lusso Francia</strong><br />
+<a href="http://www.manoush.com/e-boutique/en/prehome/" target="_blank">Dai un&#8217;occhiata al sito di Manoush</a> (http://www.manoush.com/e-boutique/en/prehome/)</p>
+<p><em>Fondata nel 2002, MANOUSH è la casa di moda francese del designer Frédérique Trou-Roy. Oggi conta negozi fisici in 24 paesi. Attualmente si ispira a culture diverse provenienti da tutto il mondo, ma all&#8217;inizio l&#8217;idea del brand è nata da un viaggio in Marocco. Nel tempo, le collezioni si sono ispirate all&#8217;India, al Medio Oriente e all&#8217;Africa.</em></p>
+<p><strong>Stile:</strong> lussuoso, femminile, bohémien e artigianale.</p>
+<p><strong>Perché ci piace:</strong> l&#8217;importanza dello sfondo non è da sottovalutare! Questo sito ne è un perfetto esempio. Molti e-shop restano prudenti optando per uno sfondo chiaro, per ottimizzare la visibilità dei prodotti. Manoush, invece, ha scelto di distinguersi: con il delicato motivo floreale nel background, è riuscita a creare un effetto scrapbook perfettamente in linea con l&#8217;idea del viaggio, tipica di questo brand.</p>
+<p><strong>Interfaccia:</strong> facendo scorrere le pagine prodotto in verticale, gli articoli appaiono sotto forma di grandi foto. Ci piacciono molto i pulsanti per cambiare lingua, situati in basso a destra.</p>
+<p><img class="alignnone size-full wp-image-13379" alt="OurTop_Manoush" src="https://www.prestashop.com/blog/it/files/2016/09/OurTop_Manoush.jpg" width="2500" height="1312" /></p>
+<h2>5) Envie de Fraises</h2>
+<p><a href="http://www.enviedefraise.it/" target="_blank">Dai un&#8217;occhiata al sito di Envie de Fraises</a> (http://www.enviedefraise.it/)</p>
+<p><em>Fondato nel 2006, il brand Envie de Fraises, disponibile unicamente on-line, è leader europeo sul mercato della moda per la maternità. Offre capi essenziali e trendy per le future mamme. Envie de Fraises ha sede a Parigi e i suoi articoli sono fabbricati in Francia.</em></p>
+<p><strong>Stile:</strong> accessori e capi di abbigliamento di qualità per le future mamme, Made in France.</p>
+<p><strong>Perché ci piace:</strong> la selezione del sito è molto estesa e propone praticamente tutto quello di cui può avere bisogno una donna durante la gravidanza e l&#8217;allattamento. Nonostante l&#8217;ampia offerta, la navigazione resta facile e intuitiva. Infatti, è facilissimo cercare un articolo o navigare tra le categorie: ispirazioni, allattamento, famiglia o ancora abiti per la gravidanza, dal più basico al più trendy.</p>
+<p><strong>Interfaccia:</strong> navigazione ottimale. La presentazione degli articoli nel loro contesto conferisce molta vivacità al sito, senza stroppiare.</p>
+<p><img class="alignnone size-full wp-image-13380" alt="OurTop_EnvieDeFraise" src="https://www.prestashop.com/blog/it/files/2016/09/OurTop_EnvieDeFraise.jpg" width="2500" height="1312" /></p>
+<h2>6) Custo Barcelona</h2>
+<p><a href="https://custo.com/ue/en/" target="_blank">Guarda il sito qui</a> (https://custo.com/ue/en/)</p>
+<p><em>Fondata nel 1981 dai fratelli Custo e David Dalmau, Custo Barcelona è nata durante un road trip in moto attraverso l&#8217;America. Dopo aver tratto ispirazione dai look casual del Sud della California, i due fratelli sono tornati a Barcellona, la loro città natale, e hanno avviato un&#8217;attività di produzione di T-shirt artigianali da uomo e da donna, con sopra stampe e illustrazioni. Oggi il brand propone una vasta selezione di capi d&#8217;abbigliamento (dai vestiti giacca ai costumi da bagno&#8230;), fedeli nello stile a ciò che ai clienti piace di Custo, come i colori e le fantasie.</em></p>
+<p><strong>Stile:</strong> audace, vivace e psichedelico</p>
+<p><strong>Perché ci piace:</strong> considerando che l&#8217;85% delle vendite di Custo Barcelona sono realizzate a livello internazionale (secondo il sito della rivista newyorchese The Cut), la presenza on-line del brand era indispensabile. Lo stile stravagante dei vestiti è controbilanciato da un menu semplice e da un&#8217;impaginazione a blocchi, per una presentazione chiara delle ultime collezioni, dei prodotti e dei lookbook.</p>
+<p><strong>Interfaccia:</strong> grazie alla barra laterale, è facile navigare tra le categorie di prodotti. Il sito permette inoltre di filtrare gli articoli per taglia o per prezzo e di scegliere se visualizzare più o meno articoli sulla stessa linea, per gli utenti che non hanno voglia di far scorrere la pagina.</p>
+<p><img class="alignnone size-full wp-image-13381" alt="OurTop_Custo" src="https://www.prestashop.com/blog/it/files/2016/09/OurTop_Custo.jpg" width="2500" height="1312" /></p>
+<p>Se la nostra selezione ti è piaciuta, scarica il <a href="https://www.prestashop.com/blog/it/ispirazione-per-design-commerce-lookbook-prestashop-2016/" target="_blank">Lookbook PrestaShop 2016</a>:Ispirazione per il design e-commerce, vi troverai tantissime idee!</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/i-migliori-shop-moda-nostra-top-6/">I migliori e-shop di moda: la nostra top 6!</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/i-migliori-shop-moda-nostra-top-6/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>4 consigli per aumentare rapidamente le vendite internazionali</title>
+		<link>https://www.prestashop.com/blog/it/4-consigli-per-aumentare-rapidamente-vendite-internazionali/</link>
+		<comments>https://www.prestashop.com/blog/it/4-consigli-per-aumentare-rapidamente-vendite-internazionali/#comments</comments>
+		<pubDate>Tue, 06 Sep 2016 08:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=13369</guid>
+		<description><![CDATA[<p>Impara dall&#8217;esperto! Lo spagnolo Steven Beamer, consulente commerciale di Ingenico, ci insegna come aumentare rapidamente le vendite internazionali in quattro mosse semplici e intelligenti. Abbiamo già parlato dell&#8217;importanza di creare un&#8217;esperienza cliente personalizzata a livello locale, per essere pronti ad affrontare i cambiamenti. Quindi se intendi estendere la tua attività a livello internazionale, costruire un [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/4-consigli-per-aumentare-rapidamente-vendite-internazionali/">4 consigli per aumentare rapidamente le vendite internazionali</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Impara dall&#8217;esperto! Lo spagnolo Steven Beamer, consulente commerciale di Ingenico, ci insegna come aumentare rapidamente le vendite internazionali in quattro mosse semplici e intelligenti.</p>
+<p><span id="more-13369"></span>Abbiamo già parlato dell&#8217;importanza di creare un&#8217;esperienza cliente personalizzata a livello locale, per essere pronti ad affrontare i cambiamenti. Quindi se intendi estendere la tua attività a livello internazionale, costruire un rapporto di fiducia con i clienti, abbattere le frontiere tradizionali, aumentare le conversioni e incrementare il tuo fatturato, ti consigliamo di dare un&#8217;occhiata a questo video.</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/h7gqrIM0leM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=ingenico" target="_blank"><i class="fa fa-youtube-play"></i> Vedere altri video</a></div>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/4-consigli-per-aumentare-rapidamente-vendite-internazionali/">4 consigli per aumentare rapidamente le vendite internazionali</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/4-consigli-per-aumentare-rapidamente-vendite-internazionali/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Nuovo : PrestaShop integra il modulo di spedizione Packlink PRO</title>
+		<link>https://www.prestashop.com/blog/it/prestashop-integra-packlink-pro/</link>
+		<comments>https://www.prestashop.com/blog/it/prestashop-integra-packlink-pro/#comments</comments>
+		<pubDate>Mon, 05 Sep 2016 13:37:46 +0000</pubDate>
+		<dc:creator><![CDATA[Sandra Fernandes]]></dc:creator>
+				<category><![CDATA[Partner PrestaShop]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=13389</guid>
+		<description><![CDATA[<p>Le spedizioni sono una tappa cruciale per qualunque attività di ecommerce online. Una gestione efficiente dei processi di spedizione permette di risparmiare tempo, lanciare un prodotto a livello internazionale e differenziarsi dalla concorrenza. Il software PrestaShop integra adesso il modulo Packlink PRO, una soluzione innovativa e gratuita che permette agli eCommerce di gestire in modo [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/prestashop-integra-packlink-pro/">Nuovo : PrestaShop integra il modulo di spedizione Packlink PRO</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Le spedizioni sono una tappa cruciale per qualunque attività di ecommerce online. Una gestione efficiente dei processi di spedizione permette di risparmiare tempo, lanciare un prodotto a livello internazionale e differenziarsi dalla concorrenza.</p>
+<p>Il <a href="https://www.prestashop.com/it/download">software PrestaShop</a> integra adesso il <a href="http://addons.prestashop.com/it/22591-spedizioni-packlink-pro.html?pab=1&amp;">modulo Packlink PRO</a>, una soluzione innovativa e gratuita che permette agli eCommerce di gestire in modo efficace la spedizione di pacchi.<br />
+<span id="more-13389"></span><br />
+L’obbiettivo: razionalizzare il processo di spedizione e risparmiare tempo da dedicare allo sviluppo e alla redditività del proprio negozio online.</p>
+<p>Questa piattaforma permette di gestire più facilmente tutte le spedizioni da e verso Italia, Spagna, Francia, Germania e verso destinazioni internazionali, confrontando le tariffe dei corrieri leaders del mercato e beneficiandosi di tariffe scontate in ciascuna spedizione.</p>
+<p>•	Un processo di spedizione automatizzato ed efficace</p>
+<p>Con il <a href="http://addons.prestashop.com/it/22591-spedizioni-packlink-pro.html?pab=1&amp;">modulo Packlink PRO</a>, gli utenti PrestaShop possono centralizzare e gestire tutte le spedizioni da un’unica piattafroma.</p>
+<p>Gli ordini completati su PrestaShop saranno importati automaticamente e intempo reale e sarà possibile aggiungere manualmente le spedizioni dal proprio negozio PrestaShp.</p>
+<p>Lo stato delle spedizioni sarà sincronizzato tra Packlink PRO e PrestaShop e nel backoffice sarà possibile visualizzare tutte le azioni collegate a ciascun stato (creare, inviare, visualizzare o stampare). L’utente potrà stampare simultaneamente varie etichette dal backoffice PrestaShop. </p>
+<p>•	La possibilità di configurare le proprie preferenze per risparmiare tempo </p>
+<p>Gli utenti PrestaShop avranno la possibilità di configurare <a href="http://addons.prestashop.com/it/22591-spedizioni-packlink-pro.html?pab=1&amp;">Packlink PRO</a> per risparmiare ancora più tempo in ciascuna spedizione. Il modulo permette di:<br />
+-	Configurare le preferenze dei metodi di pagamento<br />
+-	Salvare gli indirizzi più utilizzati e modificarli in qualunque momento in “Indirizzi predefiniti”<br />
+-	Salvare i tipi di pacchetti più usati (con un limite di q6 diversi tipi di pacco). </p>
+<p>•	La garanzia dei migliori corrieri per garantirti prestazioni di qualità</p>
+<p>Grazie alla presenza in diversi mercati europei (Italia, Spagna, Francia, Germania), Packlink PRO permette agli eCommerce di accedere a più di 50 corrieri (Poste Italiane, Bartolini, Nexive, TNT, UPS, …), confrontare e trovare la soluzione più adatta alle proprie necessità tra più di 300 servizi (standard, express, economy, porta a porta, punti drop off, ecc.).</p>
+<p>•	Risparmiare per essere più competitivi</p>
+<p>Grazie agli accordi di Packlink con i corrieri, gli eCommerce di PrestaShop potranno risparmiare fino al 70% sui costi di spedizione. </p>
+<p>Le tariffe sono calcolate in base ai tempi di transito, il tipo di servizio (standard, express, economy, porta a porta, punti drop off, …) o il numero di spedizioni mensili. Più spedisci e più risparmi!</p>
+<p><a href="http://addons.prestashop.com/it/22591-spedizioni-packlink-pro.html?pab=1&amp;">Per scaricare il modulo Packlink PRO clicca qui<br />
+</a></p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/prestashop-integra-packlink-pro/">Nuovo : PrestaShop integra il modulo di spedizione Packlink PRO</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/prestashop-integra-packlink-pro/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Avviare un&#8217;attività on-line: 4 fantastiche idee di e-commerce per individuare la tua nicchia di mercato</title>
+		<link>https://www.prestashop.com/blog/it/avviare-unattivita-on-line-4-fantastiche-idee-commerce-per-individuare-tua-nicchia-mercato/</link>
+		<comments>https://www.prestashop.com/blog/it/avviare-unattivita-on-line-4-fantastiche-idee-commerce-per-individuare-tua-nicchia-mercato/#comments</comments>
+		<pubDate>Tue, 30 Aug 2016 09:02:41 +0000</pubDate>
+		<dc:creator><![CDATA[Sarah De Castro]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=13365</guid>
+		<description><![CDATA[<p>Individuare una nicchia esclusiva per costruire una forte identità del marchio e-commerce è sempre più difficile. Abbiamo dato un&#8217;occhiata ad alcuni brand concept originali che sono riusciti ad affermarsi. Pensa al negozio on-line Bloom&#8217;s che ha completamente rivisitato la tradizionale consegna di fiori garantendo la tracciabilità del prodotto; e cosa dire di Ah la Vache? [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/avviare-unattivita-on-line-4-fantastiche-idee-commerce-per-individuare-tua-nicchia-mercato/">Avviare un&#8217;attività on-line: 4 fantastiche idee di e-commerce per individuare la tua nicchia di mercato</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Individuare una nicchia esclusiva per costruire una forte identità del marchio e-commerce è sempre più difficile.<br />
+Abbiamo dato un&#8217;occhiata ad alcuni brand concept originali che sono riusciti ad affermarsi.<br />
+Pensa al negozio on-line Bloom&#8217;s che ha completamente rivisitato la tradizionale consegna di fiori garantendo la tracciabilità del prodotto; e cosa dire di Ah la Vache?<br />
+La macelleria on-line che ti permette di acquistare la carne direttamente dai produttori locali del fondatore.<br />
+Impara una lezione sul brand storytelling grazie al successo di queste tendenze back-to-the-source.&#8221;<br />
+<span id="more-13365"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/ExXooQjFC_Y?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f; border: 1px solid #b31217; border-bottom: 3px solid #b31217; margin: 20px 0 0; color: #fff;" href="https://www.youtube.com/user/prestashop?utm_source=blog&#038;utm_medium=article&#038;utm_campaign=youtube&#038;utm_content=prestashop" target="_blank"><i class="fa fa-youtube-play"></i> Vedere altri video</a></div>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/avviare-unattivita-on-line-4-fantastiche-idee-commerce-per-individuare-tua-nicchia-mercato/">Avviare un&#8217;attività on-line: 4 fantastiche idee di e-commerce per individuare la tua nicchia di mercato</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/avviare-unattivita-on-line-4-fantastiche-idee-commerce-per-individuare-tua-nicchia-mercato/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Come ti collochi rispetto ai tuoi principali concorrenti ?</title>
+		<link>https://www.prestashop.com/blog/it/come-ti-collochi-tuoi-principali-concorrenti/</link>
+		<comments>https://www.prestashop.com/blog/it/come-ti-collochi-tuoi-principali-concorrenti/#comments</comments>
+		<pubDate>Wed, 10 Aug 2016 09:56:24 +0000</pubDate>
+		<dc:creator><![CDATA[Gli amici di Preston]]></dc:creator>
+				<category><![CDATA[Consigli E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/it/?p=13360</guid>
+		<description><![CDATA[<p>Qual è il tasso di conversione medio del tuo settore di attività? Qual è lo scontrino medio? Quale fascia oraria è la più redditizia? Come ti posizioni rispetto alla concorrenza? Sicuramente già ti sarai posto tutte queste domande almeno una volta. In effetti, le piccole e medie imprese hanno spesso difficoltà a valutare le performance [...]</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/come-ti-collochi-tuoi-principali-concorrenti/">Come ti collochi rispetto ai tuoi principali concorrenti ?</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Qual è il tasso di conversione medio del tuo settore di attività? Qual è lo scontrino medio? Quale fascia oraria è la più redditizia? Come ti posizioni rispetto alla concorrenza?</p>
+<p><span id="more-13360"></span></p>
+<p>Sicuramente già ti sarai posto tutte queste domande almeno una volta.</p>
+<p>In effetti, le piccole e medie imprese hanno spesso difficoltà a valutare le performance reali del loro negozio online. I dati esistono ma purtroppo sono poco rappresentativi e sopratutto non suddivisi per settore di attività.</p>
+<p>Ed è per questa ragione che l’Osservatorio eCommerce B2C del Politecnico di Milano si è unito a PrestaShop per realizzare uno studio qualitativo che ti darà tutti gli indicatori chiave per poterti situare sul mercato eCommerce.</p>
+<p><a href="https://it.surveymonkey.com/r/968SVFH" target="_blank">Come partecipare?</a></p>
+<p>Condividi la tua esperienza e contribuisci anche tu all’inchiesta partecipando al sondaggio e-commerce. È semplicissimo! Il sondaggio è anonimo e i risultati ti saranno comunicati al termine del sondaggio. Inoltre potrai usufruire di uno sconto del 10% su tutti i moduli sviluppati da PrestaShop e venduti nel Marketplace Addons*.</p>
+<p style="text-align: center"><a class="btn btn-success" style="color: #fff;margin-bottom: 15px" href="https://it.surveymonkey.com/r/968SVFH" target="_blank">PARTECIPA SUBITO</a></p>
+<p>*Sconto valido su tutti i moduli sviluppati da PrestaShop, acquistati dal 09/09 al 16/09 con un ordine minimo di 200€. Il codice sconto sarà inviato al termine del sondaggio.</p>
+<p>&nbsp;</p>
+<p>L'articolo <a rel="nofollow" href="https://www.prestashop.com/blog/it/come-ti-collochi-tuoi-principali-concorrenti/">Come ti collochi rispetto ai tuoi principali concorrenti ?</a> sembra essere il primo su <a rel="nofollow" href="https://www.prestashop.com/blog/it">IT - Blog E-commerce di PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/it/come-ti-collochi-tuoi-principali-concorrenti/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
